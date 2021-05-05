@@ -1,1 +1,1 @@
-Kaggle challenge link: Kaggle - Labdata Churn Challenge 2020/
+Kaggle challenge link: https://www.kaggle.com/c/customer-churn-prediction-2020/rules
