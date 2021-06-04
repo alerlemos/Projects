@@ -1,2 +1,2 @@
 # Projects
-### In this repository, i will upload different projects that i will be working on, going from web scraping for data, data visualization, Machine Learning model development and dashboard creation for the final user. 
+### In this repository, I will upload different projects that I will be working on, going from web scraping for data, data visualization, Machine Learning model development and dashboard creation for the final user. 
